@@ -47,6 +47,7 @@ https://twitter.com/ImR0305/status/1287770510365822977?s=20
 https://github.com/Kamenleon/Pmake-up
 
 # 2020/9
+- GCI無事修了(受講500人中130人が修了)
 - 技育展の登壇が決定
 
 
