@@ -46,7 +46,8 @@ https://twitter.com/ImR0305/status/1287770510365822977?s=20
 
 https://github.com/Kamenleon/Pmake-up
 
-
+# 2020/9
+- 技育展の登壇が決定
 
 
 
