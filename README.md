@@ -48,8 +48,8 @@ https://github.com/Kamenleon/Pmake-up
 
 # 2020/9
 - GCI無事修了(受講500人中130人が修了)
-- 技育展の登壇が決定
-
+- 技育展で登壇
+- udemy講座「pytorchで学ぶディープラーニング実装」
 
 
 
