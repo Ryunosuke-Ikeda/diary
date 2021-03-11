@@ -76,3 +76,4 @@ https://github.com/Kamenleon/Pmake-up
 
 # 2020/3
 - 松尾研講座，RLSP2021,NLP2021受講開始
+- E資格合格
