@@ -48,7 +48,9 @@ https://github.com/Kamenleon/Pmake-up
 
 # 2020/9
 - GCI無事修了(受講500人中130人が修了)
-- 技育展で登壇
+- 学生向けテックカンファレンス技育展で登壇を行う
+
+発表資料:https://speakerdeck.com/imr0305/ji-yu-zhan-deng-tan-zi-liao
 - udemy講座「pytorchで学ぶディープラーニング実装」修了
 
 # 2020/10
@@ -70,10 +72,10 @@ https://github.com/Kamenleon/Pmake-up
 - 卒研発表
 - E資格講座修了
 
-# 2020/2
+# 2021/2
 - E資格受験
 - インターンで顔認証システムの開発開始
 
-# 2020/3
+# 2021/3
 - 松尾研講座，RLSP2021,NLP2021受講開始
 - E資格合格
