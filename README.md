@@ -78,4 +78,7 @@ https://github.com/Kamenleon/Pmake-up
 
 # 2021/3
 - 松尾研講座，RLSP2021,NLP2021受講開始
+
+RLSP2021発表資料：https://speakerdeck.com/imr0305/rlsp2021zi-liao?slide=20
+
 - E資格合格
