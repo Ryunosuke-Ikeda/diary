@@ -84,5 +84,6 @@ https://github.com/Kamenleon/Pmake-up
 RLSP2021発表資料(VAEを担当)：https://speakerdeck.com/imr0305/rlsp2021zi-liao
 
 - E資格合格
+
 　<img src="https://user-images.githubusercontent.com/63311737/114712047-9feaee00-9d6a-11eb-8976-963513a29d8a.png" width="320">
 
