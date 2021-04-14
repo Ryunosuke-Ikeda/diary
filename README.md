@@ -69,10 +69,8 @@ https://github.com/Kamenleon/Pmake-up
 - 研究の論文執筆開始
 
 # 2021/1
-- 卒研発表
-  -　視界劣悪シーンでの路上物体検出
-
-  -　<img src="https://user-images.githubusercontent.com/63311737/114711559-0d4a4f00-9d6a-11eb-8435-9417227f3bfd.jpg" width="320">
+- 卒研発表：視界劣悪シーンでの路上物体検出
+<img src="https://user-images.githubusercontent.com/63311737/114711559-0d4a4f00-9d6a-11eb-8435-9417227f3bfd.jpg" width="320">
  
 - E資格講座修了
 
