@@ -50,6 +50,9 @@ https://github.com/Kamenleon/Pmake-up
 - GCI無事修了(受講500人中130人が修了)
 - 学生向けテックカンファレンス技育展で登壇を行う
 
+![image](https://user-images.githubusercontent.com/63311737/114713600-4388ce00-9d6c-11eb-831a-32b87d64aefa.png)
+
+
 発表資料:https://speakerdeck.com/imr0305/ji-yu-zhan-deng-tan-zi-liao
 - udemy講座「pytorchで学ぶディープラーニング実装」修了
 
