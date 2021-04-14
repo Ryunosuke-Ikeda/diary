@@ -70,6 +70,10 @@ https://github.com/Kamenleon/Pmake-up
 
 # 2021/1
 - 卒研発表
+  -　視界劣悪シーンでの路上物体検出
+
+  -　<img src="https://user-images.githubusercontent.com/63311737/114711559-0d4a4f00-9d6a-11eb-8435-9417227f3bfd.jpg" width="320">
+ 
 - E資格講座修了
 
 # 2021/2
@@ -79,6 +83,9 @@ https://github.com/Kamenleon/Pmake-up
 # 2021/3
 - 松尾研講座，RLSP2021,NLP2021受講開始
 
-RLSP2021発表資料：https://speakerdeck.com/imr0305/rlsp2021zi-liao?slide=20
+RLSP2021発表資料：https://speakerdeck.com/imr0305/rlsp2021zi-liao
 
 - E資格合格
+- 
+　<img src="https://user-images.githubusercontent.com/63311737/114712047-9feaee00-9d6a-11eb-8976-963513a29d8a.png" width="320">
+
