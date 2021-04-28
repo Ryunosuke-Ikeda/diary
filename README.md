@@ -83,9 +83,9 @@ https://github.com/Kamenleon/Pmake-up
 
 
 # 2021/3
-- 松尾研講座，RLSP2021,NLP2021受講開始
+- 東京大学松尾研講座，深層強化学習，自然言語処理スプリングセミナー受講開始
 
-RLSP2021発表資料(VAEを担当)：https://speakerdeck.com/imr0305/rlsp2021zi-liao
+深層強化学習発表資料(VAEを担当)：https://speakerdeck.com/imr0305/rlsp2021zi-liao
 
 https://user-images.githubusercontent.com/63311737/116353344-8d27ed00-a831-11eb-92e6-5315d54d69b8.mp4
 
