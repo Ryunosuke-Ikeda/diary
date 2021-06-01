@@ -5,7 +5,7 @@
 - DeepLearningの勉強開始
 ゼロつく１を進める
 # 2020/1
-- とあるJDLA提携企業でインターンを始める
+- **とあるJDLA提携企業でインターンを始める**
 # 2020/2
 - 直感deeplearningを進める
 # 2020/4
@@ -34,6 +34,8 @@ https://twitter.com/ImR0305/status/1272224017068331008?s=20
 
 https://twitter.com/ImR0305/status/1287770510365822977?s=20
 
+
+
 - GCI第３回コンペ参戦（M5形式？？）結果は44位(shakeしたとはいえ一時期7位だったから悲しい。)
 
 # 2020/8
@@ -48,7 +50,7 @@ https://github.com/Kamenleon/Pmake-up
 
 # 2020/9
 - GCI無事修了(受講500人中130人が修了)
-- 学生向けテックカンファレンス技育展で登壇を行う
+- **学生向けテックカンファレンス技育展で登壇を行う**
 
 ![image](https://user-images.githubusercontent.com/63311737/114713600-4388ce00-9d6c-11eb-831a-32b87d64aefa.png)
 
@@ -72,7 +74,7 @@ https://github.com/Kamenleon/Pmake-up
 - 研究の論文執筆開始
 
 # 2021/1
-- 卒研発表：視界劣悪シーンでの路上物体検出
+- **卒研発表：視界劣悪シーンでの路上物体検出**
 <img src="https://user-images.githubusercontent.com/63311737/114711559-0d4a4f00-9d6a-11eb-8435-9417227f3bfd.jpg" width="320"> 
  
 - E資格講座修了
@@ -87,7 +89,17 @@ https://github.com/Kamenleon/Pmake-up
 
 深層強化学習発表資料(VAEを担当)：https://speakerdeck.com/imr0305/rlsp2021zi-liao
 
-- E資格合格
+- **E資格合格**
 
 　<img src="https://user-images.githubusercontent.com/63311737/114712047-9feaee00-9d6a-11eb-8976-963513a29d8a.png" width="320">
 
+# 2021/4
+- ハッカソン_vol2にて入賞
+
+同時編集機能を取り入れたお絵かきチャットアプリを開発(github:https://github.com/Ryunosuke-Ikeda/UDN)
+
+https://twitter.com/ImR0305/status/1386231093511159811?s=20
+
+# 2021/5
+- 強化学習,自然言語処理スプリングセミナー修了
+- **東大松尾研究室と医療機関との共同研究プロジェクトにjoinすることが決定**
