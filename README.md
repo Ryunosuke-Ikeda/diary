@@ -11,13 +11,13 @@
 # 2020/4
 - 自宅の猫を見分ける簡単なCNNを構築する
 
-https://twitter.com/ImR0305/status/1252290702492397568?s=20
+twitter: https://twitter.com/ImR0305/status/1252290702492397568?s=20
 # 2020/5
 - 東京大学グローバルインテリジェンス寄付講座（GCI）受講開始
 
 - GANを自作データで学習できるよう実装（全然だめ）
 
-https://twitter.com/ImR0305/status/1258420468232491009?s=20
+twitter: https://twitter.com/ImR0305/status/1258420468232491009?s=20
 
 # 2020/6
 - GCI第１回コンペ参戦（タイタニック）結果は29位
@@ -26,13 +26,13 @@ https://twitter.com/ImR0305/status/1258420468232491009?s=20
 
 - 以前開発した猫CNNを搭載したラインボット'Salieri'を開発
 
-https://twitter.com/ImR0305/status/1272224017068331008?s=20
+twitter: https://twitter.com/ImR0305/status/1272224017068331008?s=20
 # 2020/7
 - 技育祭に参加様々な人と交流する
 
 - ゼロつく２を購入、一日一章ペースで読む
 
-https://twitter.com/ImR0305/status/1287770510365822977?s=20
+twitter: https://twitter.com/ImR0305/status/1287770510365822977?s=20
 
 
 
@@ -96,10 +96,34 @@ https://github.com/Kamenleon/Pmake-up
 # 2021/4
 - ハッカソン_vol2にて入賞
 
+　<img src="https://user-images.githubusercontent.com/63311737/122784004-094c2780-d2ed-11eb-8953-a52dd786bd8a.png" width="320">
+
+
 同時編集機能を取り入れたお絵かきチャットアプリを開発(github:https://github.com/Ryunosuke-Ikeda/UDN)
 
-https://twitter.com/ImR0305/status/1386231093511159811?s=20
+スライド資料:
+
+https://docs.google.com/presentation/d/1H6O_Hr9ccqtY2kGU1qOMuhgIlmT_92gUDWHppahjfOE/edit#slide=id.gd459a4d519_0_863
+
+twitter: https://twitter.com/ImR0305/status/1386231093511159811?s=20
 
 # 2021/5
 - 強化学習,自然言語処理スプリングセミナー修了
 - **東大松尾研究室と医療機関との共同研究プロジェクトにjoinすることが決定**
+# 2021/6
+- オープンキャンパス案内AIを作成．
+
+twitter: https://twitter.com/ImR0305/status/1404653047960129539?s=20
+
+- **サポーターズハッカソンvol4で最優秀賞を獲得**
+
+  <img src="https://user-images.githubusercontent.com/63311737/122784636-9db68a00-d2ed-11eb-8ea3-cefdf29b268b.png" width="320">
+ 
+ 3Dモデルと対話が楽しめるwebアプリケーションを開発(github:https://github.com/y-yana/3DUDN)
+ 
+ スライド資料:
+ 
+ https://docs.google.com/presentation/d/1Z44npKjCg3WTPlWXhgds0wxU4H2uwwMwzB6tSUON8l0/edit#slide=id.ge110286eb2_1_24
+ 
+ twitter: https://twitter.com/ImR0305/status/1406547155762827266?s=20
+
