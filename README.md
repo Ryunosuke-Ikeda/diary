@@ -96,7 +96,7 @@ https://github.com/Kamenleon/Pmake-up
 # 2021/4
 - ハッカソン_vol2にて入賞
 
-　<img src="https://user-images.githubusercontent.com/63311737/122784004-094c2780-d2ed-11eb-8953-a52dd786bd8a.png" width="320">
+　<img src="https://user-images.githubusercontent.com/63311737/122784004-094c2780-d2ed-11eb-8953-a52dd786bd8a.png" width="500">
 
 
 同時編集機能を取り入れたお絵かきチャットアプリを開発(github:https://github.com/Ryunosuke-Ikeda/UDN)
@@ -109,7 +109,12 @@ twitter: https://twitter.com/ImR0305/status/1386231093511159811?s=20
 
 # 2021/5
 - 強化学習,自然言語処理スプリングセミナー修了
-- **東大松尾研究室と医療機関との共同研究プロジェクトにjoinすることが決定**
+
+　<img src="https://user-images.githubusercontent.com/63311737/123290230-1024a580-d54c-11eb-9d69-6f2e9665fd32.png" width="500">
+
+
+## ・東大松尾研究室と医療機関との共同研究プロジェクトにjoinすることが決定
+
 # 2021/6
 - オープンキャンパス案内AIを作成．
 
@@ -117,7 +122,7 @@ twitter: https://twitter.com/ImR0305/status/1404653047960129539?s=20
 
 - **サポーターズハッカソンvol4で最優秀賞を獲得**
 
-  <img src="https://user-images.githubusercontent.com/63311737/122784636-9db68a00-d2ed-11eb-8ea3-cefdf29b268b.png" width="320">
+  <img src="https://user-images.githubusercontent.com/63311737/122784636-9db68a00-d2ed-11eb-8ea3-cefdf29b268b.png" width="500">
  
  3Dモデルと対話が楽しめるwebアプリケーションを開発(github:https://github.com/y-yana/3DUDN)
  
