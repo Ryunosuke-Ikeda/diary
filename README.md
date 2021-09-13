@@ -132,3 +132,8 @@ twitter: https://twitter.com/ImR0305/status/1404653047960129539?s=20
  
  twitter: https://twitter.com/ImR0305/status/1406547155762827266?s=20
 
+# 2021/7
+- 技育展への登壇が決定
+
+# 2021/8
+- ソニーグループ横断アイデアソンへの参加が決定
