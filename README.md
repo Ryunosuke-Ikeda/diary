@@ -118,7 +118,9 @@ twitter: https://twitter.com/ImR0305/status/1386231093511159811?s=20
 # 2021/6
 - オープンキャンパス案内AIを作成．
 
-twitter: https://twitter.com/ImR0305/status/1404653047960129539?s=20
+ <img src="https://user-images.githubusercontent.com/63311737/133024399-a531bbc7-6c89-45d8-a8bc-e21cb29f74ae.png" width="500">
+
+紹介URL:https://tdu-ai-lab.github.io/activity/labai/
 
 - **サポーターズハッカソンvol4で最優秀賞を獲得**
 
