@@ -5,7 +5,7 @@
 - DeepLearningの勉強開始
 ゼロつく１を進める
 # 2020/1
-- **とあるJDLA提携企業でインターンを始める**
+- **株式会社AVILENでインターンを始める**
 # 2020/2
 - 直感deeplearningを進める
 # 2020/4
@@ -51,6 +51,8 @@ https://github.com/Kamenleon/Pmake-up
 # 2020/9
 - GCI無事修了(受講500人中130人が修了)
 - **学生向けテックカンファレンス技育展で登壇を行う**
+- 
+画像認識AIを用いた服装のレコメンドシステム
 
 ![image](https://user-images.githubusercontent.com/63311737/114713600-4388ce00-9d6c-11eb-831a-32b87d64aefa.png)
 
@@ -61,6 +63,7 @@ https://github.com/Kamenleon/Pmake-up
 # 2020/10
 - オータムハッカソンに参加
 - kaggleコンペ　MoAに参加
+- AVILENで画像認識分野の講師を任される．
 
 # 2020/11
 - 研究が本番に
