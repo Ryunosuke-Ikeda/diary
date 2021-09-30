@@ -40,8 +40,6 @@ twitter: https://twitter.com/ImR0305/status/1287770510365822977?s=20
 
 # 2020/8
 
-- 東京都コロナ感染者数予測モデルを作ってみる。8/6の予測で誤差３人の奇跡を起こす。
-
 - GCI最終課題（事業提案）に取り組む
 
 - サマーハッカソンに参加、CNNを用いたWebアプリを制作。（画像認識AI,サーバーを担当）
@@ -95,6 +93,13 @@ https://github.com/Kamenleon/Pmake-up
 - **E資格合格**
 
 　<img src="https://user-images.githubusercontent.com/63311737/114712047-9feaee00-9d6a-11eb-8976-963513a29d8a.png" width="320">
+ 
+## ・Panda株式会社でインターンを開始
+
+顔認証システムの機械学習分野のリーダーとしてアルゴリズムの提案，開発を始める
+
+https://pd-panda.com/
+
 
 # 2021/4
 - ハッカソン_vol2にて入賞
@@ -144,3 +149,10 @@ twitter: https://twitter.com/ImR0305/status/1386231093511159811?s=20
 
 # 2021/8
 - ソニーグループ横断アイデアソンへの参加が決定
+- 技育展に向けて追加開発
+
+# 2021/9
+- **ソニーグループ横断アイデアソン　AI,半導体部門優勝！！**
+
+![image](https://user-images.githubusercontent.com/63311737/135393634-575df667-b942-4c73-8134-9272deeceb38.png)
+
