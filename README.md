@@ -123,6 +123,9 @@ twitter: https://twitter.com/ImR0305/status/1386231093511159811?s=20
 
 ## ・東大松尾研究室と医療機関との共同研究プロジェクトにjoinすることが決定
 
+![image](https://user-images.githubusercontent.com/63311737/137783155-a585a22b-3887-4916-8e24-b4b24f46470b.png)
+
+
 脳MRI画像を用いた微小出血検知AIの研究開発を行う
 
 # 2021/6
