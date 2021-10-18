@@ -166,3 +166,7 @@ https://speakerdeck.com/imr0305/zi-ji-shao-jie-suraido
 
 https://twitter.com/ImR0305
 
+- Resume
+
+https://www.resume.id/imr0305
+
