@@ -156,3 +156,13 @@ twitter: https://twitter.com/ImR0305/status/1386231093511159811?s=20
 
 ![image](https://user-images.githubusercontent.com/63311737/135393634-575df667-b942-4c73-8134-9272deeceb38.png)
 
+
+# Appendix
+- 自己紹介スライド
+
+https://speakerdeck.com/imr0305/zi-ji-shao-jie-suraido
+
+- Twitter 
+
+https://twitter.com/ImR0305
+
