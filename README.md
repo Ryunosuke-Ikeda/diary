@@ -49,8 +49,7 @@ https://github.com/Kamenleon/Pmake-up
 # 2020/9
 - GCI無事修了(受講500人中130人が修了)
 - **学生向けテックカンファレンス技育展で登壇を行う**
-- 
-画像認識AIを用いた服装のレコメンドシステム
+  - 画像認識AIを用いた服装のレコメンドシステム
 
 ![image](https://user-images.githubusercontent.com/63311737/114713600-4388ce00-9d6c-11eb-831a-32b87d64aefa.png)
 
@@ -87,8 +86,7 @@ https://github.com/Kamenleon/Pmake-up
 
 # 2021/3
 - 東京大学松尾研講座，深層強化学習，自然言語処理スプリングセミナー受講開始
-
-深層強化学習発表資料(VAEを担当)：https://speakerdeck.com/imr0305/rlsp2021zi-liao
+  - 深層強化学習発表資料(VAEを担当)：https://speakerdeck.com/imr0305/rlsp2021zi-liao
 
 - **E資格合格**
 
@@ -107,13 +105,13 @@ https://pd-panda.com/
 　<img src="https://user-images.githubusercontent.com/63311737/122784004-094c2780-d2ed-11eb-8953-a52dd786bd8a.png" width="500">
 
 
-同時編集機能を取り入れたお絵かきチャットアプリを開発(github:https://github.com/Ryunosuke-Ikeda/UDN)
+ - 同時編集機能を取り入れたお絵かきチャットアプリを開発(github:https://github.com/Ryunosuke-Ikeda/UDN)
 
-スライド資料:
+ - スライド資料:
+ 
+ https://docs.google.com/presentation/d/1H6O_Hr9ccqtY2kGU1qOMuhgIlmT_92gUDWHppahjfOE/edit#slide=id.gd459a4d519_0_863
 
-https://docs.google.com/presentation/d/1H6O_Hr9ccqtY2kGU1qOMuhgIlmT_92gUDWHppahjfOE/edit#slide=id.gd459a4d519_0_863
-
-twitter: https://twitter.com/ImR0305/status/1386231093511159811?s=20
+ - twitter: https://twitter.com/ImR0305/status/1386231093511159811?s=20
 
 # 2021/5
 - 強化学習,自然言語処理スプリングセミナー修了
@@ -137,15 +135,15 @@ twitter: https://twitter.com/ImR0305/status/1386231093511159811?s=20
 
 - **サポーターズハッカソンvol4で最優秀賞を獲得**
 
-  <img src="https://user-images.githubusercontent.com/63311737/122784636-9db68a00-d2ed-11eb-8ea3-cefdf29b268b.png" width="500">
+<img src="https://user-images.githubusercontent.com/63311737/122784636-9db68a00-d2ed-11eb-8ea3-cefdf29b268b.png" width="500">
  
- 3Dモデルと対話が楽しめるwebアプリケーションを開発(github:https://github.com/y-yana/3DUDN)
- 
- スライド資料:
+ - 3Dモデルと対話が楽しめるwebアプリケーションを開発(github:https://github.com/y-yana/3DUDN)
+ - スライド資料:
  
  https://docs.google.com/presentation/d/1Z44npKjCg3WTPlWXhgds0wxU4H2uwwMwzB6tSUON8l0/edit#slide=id.ge110286eb2_1_24
  
- twitter: https://twitter.com/ImR0305/status/1406547155762827266?s=20
+ - twitter: https://twitter.com/ImR0305/status/1406547155762827266?s=20
+ 
 
 # 2021/7
 - 技育展への登壇が決定
@@ -160,6 +158,20 @@ twitter: https://twitter.com/ImR0305/status/1386231093511159811?s=20
 ![image](https://user-images.githubusercontent.com/63311737/135393634-575df667-b942-4c73-8134-9272deeceb38.png)
 
 
+# 2021/10
+- 技育展登壇
+  - 6月のハッカソンにて開発したURoidChatを追加開発して登壇
+  - 発表資料: https://docs.google.com/presentation/d/1bwkwZFQ5rkDQIxiZwiaiJ5d8rrG5uynw5kJxL4zBWhU/edit#slide=id.gfcd0196595_0_0 
+
+![スクリーンショット 2021-09-24 18 47 04](https://user-images.githubusercontent.com/63311737/139653541-77a4f8e1-5c6f-43f9-8a7d-24db8e5cd458.png)
+
+- **JPHACKS にてバンダイナムコ研究所ブロックスポンサー賞を受賞**
+
+<img src="https://user-images.githubusercontent.com/63311737/139654238-4c29f862-07fc-4527-897f-44c0f41f2184.png" width="500">
+  
+ - ミライ小町ちゃんと一緒に表情筋のトレーニングができるアプリケーション
+  - デモ動画: https://www.youtube.com/watch?v=7i1JmvzQEoc 
+  
 # Appendix
 - 自己紹介スライド
 
