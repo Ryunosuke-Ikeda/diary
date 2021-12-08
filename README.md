@@ -171,6 +171,16 @@ https://pd-panda.com/
   
  - ミライ小町ちゃんと一緒に表情筋のトレーニングができるアプリケーション
   - デモ動画: https://www.youtube.com/watch?v=7i1JmvzQEoc 
+
+# 2021/11
+- **JPHACKSでAwardDayに進出，総合2位，Innovater認定，審査員特別賞を獲得**
+
+![image](https://user-images.githubusercontent.com/63311737/145154304-ec17744b-3995-4c70-94dc-55c336c87a05.png)
+
+作品URL:https://nicotore.herokuapp.com/
+
+github: https://github.com/jphacks/B_2101
+
   
 # Appendix
 - 自己紹介スライド
@@ -184,4 +194,8 @@ https://twitter.com/ImR0305
 - Resume
 
 https://www.resume.id/imr0305
+
+- Qiita
+
+https://qiita.com/ImR0305
 
