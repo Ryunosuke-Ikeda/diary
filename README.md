@@ -182,6 +182,10 @@ https://pd-panda.com/
 github: https://github.com/jphacks/B_2101
 
   
+#2021/12
+- 就活本格化
+- 国際学会に向けて論文執筆
+
 # Appendix
 - 自己紹介スライド
 
