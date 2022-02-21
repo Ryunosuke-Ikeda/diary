@@ -186,6 +186,15 @@ github: https://github.com/jphacks/B_2101
 - 就活本格化
 - 国際学会に向けて論文執筆
 
+# 2022/01
+- 初内定
+- 論文提出完了
+- Sagemakerにいじめられる
+
+# 2022/02
+- 国際会議　International Workshop on Frontiers of Computer Visionで論文発表
+- ハッカソンOpen Hack U に出場
+
 # Appendix
 - 自己紹介スライド
 
