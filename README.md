@@ -200,7 +200,18 @@ github: https://github.com/jphacks/B_2101
   <img src="https://user-images.githubusercontent.com/63311737/155701069-77d91f1f-a026-4d46-a712-e01b7c1f1683.png" width="500">
 
 　
-- ハッカソンOpen Hack U に出場
+- **ハッカソンOpen Hack U に出場し優秀賞を獲得**
+
+自分が書いたイラストが戦ってくれるゲーム「どろもん」を開発
+
+AIで画像認識し，識別結果に応じてステータスが割り振られて戦うゲームです．
+  <img src="https://user-images.githubusercontent.com/63311737/156000920-41674fc1-953e-421c-bcb0-cce737bae69d.png" width="500">
+  
+スライド:
+https://docs.google.com/presentation/d/1fNlhCODqJCc_-KfR6gvMsOT5peKrWx4B9M8S1V1v9lI/edit?usp=sharing
+
+
+
 
 # Appendix
 - 自己紹介スライド
