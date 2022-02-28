@@ -5,7 +5,7 @@
 - DeepLearningの勉強開始
 ゼロつく１を進める
 # 2020/1
-- **株式会社AVILENでインターンを始める**
+### - 株式会社AVILENでインターンを始める
 # 2020/2
 - 直感deeplearningを進める
 # 2020/4
@@ -88,11 +88,11 @@ https://github.com/Kamenleon/Pmake-up
 - 東京大学松尾研講座，深層強化学習，自然言語処理スプリングセミナー受講開始
   - 深層強化学習発表資料(VAEを担当)：https://speakerdeck.com/imr0305/rlsp2021zi-liao
 
-- **E資格合格**
+### - E資格合格 
 
 　<img src="https://user-images.githubusercontent.com/63311737/114712047-9feaee00-9d6a-11eb-8976-963513a29d8a.png" width="320">
  
-## ・Panda株式会社でインターンを開始
+### - Panda株式会社でインターンを開始
 
 顔認証システムの機械学習分野のリーダーとしてアルゴリズムの提案，開発を始める
 
@@ -133,7 +133,7 @@ https://pd-panda.com/
 
 紹介URL:https://tdu-ai-lab.github.io/activity/labai/
 
-- **サポーターズハッカソンvol4で最優秀賞を獲得**
+### - サポーターズハッカソンvol4で最優秀賞を獲得
 
 <img src="https://user-images.githubusercontent.com/63311737/122784636-9db68a00-d2ed-11eb-8ea3-cefdf29b268b.png" width="500">
  
@@ -153,7 +153,7 @@ https://pd-panda.com/
 - 技育展に向けて追加開発
 
 # 2021/9
-- **ソニーグループ横断アイデアソン　AI,半導体部門優勝！！**
+### ソニーグループ横断アイデアソン　AI,半導体部門優勝！！
 
 ![image](https://user-images.githubusercontent.com/63311737/135393634-575df667-b942-4c73-8134-9272deeceb38.png)
 
@@ -173,7 +173,7 @@ https://pd-panda.com/
   - デモ動画: https://www.youtube.com/watch?v=7i1JmvzQEoc 
 
 # 2021/11
-- **JPHACKSでAwardDayに進出(関東地区予選突破)，総合2位，Innovater認定，審査員特別賞(賞金10万円)を獲得**
+### JPHACKSでAwardDayに進出(関東地区予選突破)，総合2位，Innovater認定，審査員特別賞(賞金10万円)を獲得
 
 ![image](https://user-images.githubusercontent.com/63311737/145154304-ec17744b-3995-4c70-94dc-55c336c87a05.png)
 
@@ -194,7 +194,7 @@ github: https://github.com/jphacks/B_2101
 # 2022/02
 - 国際会議　International Workshop on Frontiers of Computer Visionで論文発表
 
-  **Best presentation awardを獲得**
+### Best presentation awardを獲得
 
   
   <img src="https://user-images.githubusercontent.com/63311737/155701069-77d91f1f-a026-4d46-a712-e01b7c1f1683.png" width="500">
