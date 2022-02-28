@@ -210,7 +210,10 @@ AIで画像認識し，識別結果に応じてステータスが割り振られ
 スライド:
 https://docs.google.com/presentation/d/1fNlhCODqJCc_-KfR6gvMsOT5peKrWx4B9M8S1V1v9lI/edit?usp=sharing
 
+作品URL:
+https://doromon.herokuapp.com/
 
+初回起動には30秒ほど時間がかかります(Herokuの仕様)
 
 
 # Appendix
