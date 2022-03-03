@@ -173,7 +173,7 @@ https://pd-panda.com/
   - デモ動画: https://www.youtube.com/watch?v=7i1JmvzQEoc 
 
 # 2021/11
-### JPHACKSでAwardDayに進出(関東地区予選突破)，総合2位，Innovater認定，審査員特別賞(賞金10万円)を獲得
+### JPHACKSでAwardDayに進出(関東地区予選突破)，総合2位，Innovatr認定，審査員特別賞(賞金10万円)を獲得
 
 ![image](https://user-images.githubusercontent.com/63311737/145154304-ec17744b-3995-4c70-94dc-55c336c87a05.png)
 
