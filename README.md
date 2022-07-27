@@ -225,6 +225,8 @@ https://doromon.herokuapp.com/
   <img src="https://user-images.githubusercontent.com/63311737/174823070-353ae8f3-d5ef-43ea-b348-06b1d9904ca2.png" width="500">
   <img src="https://user-images.githubusercontent.com/63311737/174823450-7b3fb1dc-cfb4-4f45-aaf3-42f82e66359a.png" width="500">
 
+# 2022/7
+###　**松尾研のチーフAIエンジニアに昇格**
 
 # Appendix
 - 自己紹介スライド
