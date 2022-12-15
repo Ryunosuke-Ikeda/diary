@@ -217,10 +217,10 @@ https://doromon.herokuapp.com/
 
 # 2022/03
 
-- Panda株式会社にて顔認証システムの開発(機械学習担当)
+- **Panda株式会社にて顔認証システムの開発(機械学習担当)**
 
 ![image](https://user-images.githubusercontent.com/63311737/207825396-9666b574-8552-4a86-89f3-d56d8b2a6dbe.png)
-
+3月にテレ東の番組にて紹介されました．
 
 # 2022/06
 ### **就活終了**
