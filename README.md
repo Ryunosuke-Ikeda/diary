@@ -242,6 +242,8 @@ PV: https://www.youtube.com/watch?v=Tw98bH3SCgw
 ### **松尾研のチーフAIエンジニアに昇格**
 - AIシステムのコンサルティングなどにも挑戦
 
+# 2023/4
+## IT会社に機械学習エンジニアとして就職
 # Appendix
 - 自己紹介スライド
 
